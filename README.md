@@ -1,0 +1,2 @@
+This is a simple js game.
+This game is played by 2 players. Each player in turn presses the roll. The sum of the cubes falls into your current account. If you drop 1 at least on one of the cubes, your current account is reset to zero. You can click hold and then the current account will be added to the total and then reset to zero and the move will go to another player. The winner is the one who quickly scores 100 points. GOOD LUCK!
