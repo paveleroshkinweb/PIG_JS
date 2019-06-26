@@ -37,7 +37,7 @@ export const showWinner = () => {
     modal(
         `<div class="winner">
             <div class="winner-text">We have a winner - player ${storage.getItem('currentPlayer') + 1}</div>
-            <img src="/img/winner.gif">
+            <img src="./img/winner.gif">
         </div>`
     );
 }
